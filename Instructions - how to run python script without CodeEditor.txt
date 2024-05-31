@@ -1,0 +1,49 @@
+00 - Lo mejor que puedes hacer es descargar anaconda y visual studio code. Córrelo desde ahí. 
+
+Si tienes el windows pirata como yo.
+
+
+------------------------------------------------------------------------------------------------------------
+0. If you have NOT installed python before on your computer, do it: 
+
+Download from Microsoft store, the last version, please.
+
+If you cannot, follow this video:
+
+https://www.youtube.com/watch?v=XrvcVE2YKOo&ab_channel=elstef41
+------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+Yes, you can run a Python script without using a code editor directly from the command line or terminal. Here's how you can do it:
+
+1. Open Command Prompt (Windows) or Terminal (macOS/Linux): You can open Command Prompt on Windows by searching for it in the Start menu, or you can open Terminal on macOS/Linux by searching for it in the applications menu or using keyboard shortcuts like Command + Spacebar on macOS and Ctrl + Alt + T on most Linux distributions.
+
+2. Navigate to the Directory Containing Your Script: Use the cd command to navigate to the directory where your Python script is located.
+
+-------------------------------------
+cd path/to/your/script/directory
+-------------------------------------
+
+
+3. Run the Python Script: Once you're in the directory containing your script, you can execute it by typing python followed by the name of your script.
+
+--------------------------------
+python your_script.py
+--------------------------------
+Replace your_script.py with the name of your Python script file.
+
+
+
+4. Alternatively, Use the python3 Command: Depending on your system configuration, you might need to use python3 instead of python to run Python 3 scripts.
+
+--------------------------
+python3 your_script.py
+--------------------------
+This will execute your Python script without the need for a dedicated code editor. You can also run Python scripts from within other programs or environments, such as integrated development environments (IDEs), but the command-line method described above is the most basic and universal way to run Python scripts.
+
+
+
+
+
+
